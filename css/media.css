@@ -1,0 +1,122 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	.text-wrap {
+		padding-left: 0;
+		margin-top: 80px;
+	}
+
+	.preim {
+		margin-bottom: 15px;
+	}
+
+	.mamber {
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.skills {
+		margin: 0 auto;
+		padding: 30px 20px;
+	}
+
+	.form-wrap {
+		padding: 0;
+	}
+
+	.cont-wrap img {
+		margin-top: 10px;
+	}
+
+	.each-wrap {
+		margin-bottom: 20px;
+	}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+.main-head {
+	padding: 60px 10px;
+}
+
+.header-content {
+	padding-top: 80px;
+}
+.header-content	h1 {
+		font-size: 30px;
+	}
+.header-content	p {
+		font-size: 20px;
+	}
+
+.section-head h2 {
+		font-size: 24px;
+	}
+.section-head	h3 {
+		font-size: 20px;
+	}
+
+.butbut {
+	margin-top: 60px;
+}
+
+.section-light {
+	padding: 40px 10px;
+}
+.section-content {
+	padding-top: 40px;
+}
+
+.map {
+	padding: 30px 10px;
+	padding-top: 50px;
+}
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
